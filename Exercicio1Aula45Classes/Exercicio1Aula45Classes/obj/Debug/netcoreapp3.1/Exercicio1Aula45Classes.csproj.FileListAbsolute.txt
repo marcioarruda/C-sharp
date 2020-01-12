@@ -1,0 +1,10 @@
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\Exercicio1Aula45Classes\Exercicio1Aula45Classes\bin\Debug\netcoreapp3.1\Exercicio1Aula45Classes.exe
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\Exercicio1Aula45Classes\Exercicio1Aula45Classes\bin\Debug\netcoreapp3.1\Exercicio1Aula45Classes.deps.json
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\Exercicio1Aula45Classes\Exercicio1Aula45Classes\bin\Debug\netcoreapp3.1\Exercicio1Aula45Classes.runtimeconfig.json
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\Exercicio1Aula45Classes\Exercicio1Aula45Classes\bin\Debug\netcoreapp3.1\Exercicio1Aula45Classes.runtimeconfig.dev.json
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\Exercicio1Aula45Classes\Exercicio1Aula45Classes\bin\Debug\netcoreapp3.1\Exercicio1Aula45Classes.dll
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\Exercicio1Aula45Classes\Exercicio1Aula45Classes\bin\Debug\netcoreapp3.1\Exercicio1Aula45Classes.pdb
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\Exercicio1Aula45Classes\Exercicio1Aula45Classes\obj\Debug\netcoreapp3.1\Exercicio1Aula45Classes.AssemblyInfoInputs.cache
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\Exercicio1Aula45Classes\Exercicio1Aula45Classes\obj\Debug\netcoreapp3.1\Exercicio1Aula45Classes.AssemblyInfo.cs
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\Exercicio1Aula45Classes\Exercicio1Aula45Classes\obj\Debug\netcoreapp3.1\Exercicio1Aula45Classes.dll
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\Exercicio1Aula45Classes\Exercicio1Aula45Classes\obj\Debug\netcoreapp3.1\Exercicio1Aula45Classes.pdb

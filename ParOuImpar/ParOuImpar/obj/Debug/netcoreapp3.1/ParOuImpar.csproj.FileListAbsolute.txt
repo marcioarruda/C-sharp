@@ -1,0 +1,11 @@
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ParOuImpar\ParOuImpar\bin\Debug\netcoreapp3.1\ParOuImpar.exe
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ParOuImpar\ParOuImpar\bin\Debug\netcoreapp3.1\ParOuImpar.deps.json
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ParOuImpar\ParOuImpar\bin\Debug\netcoreapp3.1\ParOuImpar.runtimeconfig.json
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ParOuImpar\ParOuImpar\bin\Debug\netcoreapp3.1\ParOuImpar.runtimeconfig.dev.json
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ParOuImpar\ParOuImpar\bin\Debug\netcoreapp3.1\ParOuImpar.dll
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ParOuImpar\ParOuImpar\bin\Debug\netcoreapp3.1\ParOuImpar.pdb
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ParOuImpar\ParOuImpar\obj\Debug\netcoreapp3.1\ParOuImpar.csprojAssemblyReference.cache
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ParOuImpar\ParOuImpar\obj\Debug\netcoreapp3.1\ParOuImpar.AssemblyInfoInputs.cache
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ParOuImpar\ParOuImpar\obj\Debug\netcoreapp3.1\ParOuImpar.AssemblyInfo.cs
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ParOuImpar\ParOuImpar\obj\Debug\netcoreapp3.1\ParOuImpar.dll
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ParOuImpar\ParOuImpar\obj\Debug\netcoreapp3.1\ParOuImpar.pdb

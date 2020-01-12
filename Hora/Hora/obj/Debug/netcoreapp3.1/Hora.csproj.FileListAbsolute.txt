@@ -1,0 +1,10 @@
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\Hora\Hora\bin\Debug\netcoreapp3.1\Hora.exe
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\Hora\Hora\bin\Debug\netcoreapp3.1\Hora.deps.json
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\Hora\Hora\bin\Debug\netcoreapp3.1\Hora.runtimeconfig.json
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\Hora\Hora\bin\Debug\netcoreapp3.1\Hora.runtimeconfig.dev.json
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\Hora\Hora\bin\Debug\netcoreapp3.1\Hora.dll
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\Hora\Hora\bin\Debug\netcoreapp3.1\Hora.pdb
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\Hora\Hora\obj\Debug\netcoreapp3.1\Hora.AssemblyInfoInputs.cache
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\Hora\Hora\obj\Debug\netcoreapp3.1\Hora.AssemblyInfo.cs
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\Hora\Hora\obj\Debug\netcoreapp3.1\Hora.dll
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\Hora\Hora\obj\Debug\netcoreapp3.1\Hora.pdb

@@ -1,0 +1,22 @@
+E:\C#-COMPLETO\PROJETOS-WS-VS2019\EntradaDeDados\EntradaDeDados\bin\Debug\netcoreapp3.1\EntradaDeDados.exe
+E:\C#-COMPLETO\PROJETOS-WS-VS2019\EntradaDeDados\EntradaDeDados\bin\Debug\netcoreapp3.1\EntradaDeDados.deps.json
+E:\C#-COMPLETO\PROJETOS-WS-VS2019\EntradaDeDados\EntradaDeDados\bin\Debug\netcoreapp3.1\EntradaDeDados.runtimeconfig.json
+E:\C#-COMPLETO\PROJETOS-WS-VS2019\EntradaDeDados\EntradaDeDados\bin\Debug\netcoreapp3.1\EntradaDeDados.runtimeconfig.dev.json
+E:\C#-COMPLETO\PROJETOS-WS-VS2019\EntradaDeDados\EntradaDeDados\bin\Debug\netcoreapp3.1\EntradaDeDados.dll
+E:\C#-COMPLETO\PROJETOS-WS-VS2019\EntradaDeDados\EntradaDeDados\bin\Debug\netcoreapp3.1\EntradaDeDados.pdb
+E:\C#-COMPLETO\PROJETOS-WS-VS2019\EntradaDeDados\EntradaDeDados\obj\Debug\netcoreapp3.1\EntradaDeDados.csprojAssemblyReference.cache
+E:\C#-COMPLETO\PROJETOS-WS-VS2019\EntradaDeDados\EntradaDeDados\obj\Debug\netcoreapp3.1\EntradaDeDados.AssemblyInfoInputs.cache
+E:\C#-COMPLETO\PROJETOS-WS-VS2019\EntradaDeDados\EntradaDeDados\obj\Debug\netcoreapp3.1\EntradaDeDados.AssemblyInfo.cs
+E:\C#-COMPLETO\PROJETOS-WS-VS2019\EntradaDeDados\EntradaDeDados\obj\Debug\netcoreapp3.1\EntradaDeDados.dll
+E:\C#-COMPLETO\PROJETOS-WS-VS2019\EntradaDeDados\EntradaDeDados\obj\Debug\netcoreapp3.1\EntradaDeDados.pdb
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\EntradaDeDados\EntradaDeDados\bin\Debug\netcoreapp3.1\EntradaDeDados.exe
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\EntradaDeDados\EntradaDeDados\bin\Debug\netcoreapp3.1\EntradaDeDados.deps.json
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\EntradaDeDados\EntradaDeDados\bin\Debug\netcoreapp3.1\EntradaDeDados.runtimeconfig.json
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\EntradaDeDados\EntradaDeDados\bin\Debug\netcoreapp3.1\EntradaDeDados.runtimeconfig.dev.json
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\EntradaDeDados\EntradaDeDados\bin\Debug\netcoreapp3.1\EntradaDeDados.dll
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\EntradaDeDados\EntradaDeDados\bin\Debug\netcoreapp3.1\EntradaDeDados.pdb
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\EntradaDeDados\EntradaDeDados\obj\Debug\netcoreapp3.1\EntradaDeDados.csprojAssemblyReference.cache
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\EntradaDeDados\EntradaDeDados\obj\Debug\netcoreapp3.1\EntradaDeDados.AssemblyInfoInputs.cache
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\EntradaDeDados\EntradaDeDados\obj\Debug\netcoreapp3.1\EntradaDeDados.AssemblyInfo.cs
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\EntradaDeDados\EntradaDeDados\obj\Debug\netcoreapp3.1\EntradaDeDados.dll
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\EntradaDeDados\EntradaDeDados\obj\Debug\netcoreapp3.1\EntradaDeDados.pdb

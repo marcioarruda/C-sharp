@@ -1,0 +1,11 @@
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\Exercicio6-4\Exercicio6-4\bin\Debug\netcoreapp3.1\Exercicio6-4.exe
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\Exercicio6-4\Exercicio6-4\bin\Debug\netcoreapp3.1\Exercicio6-4.deps.json
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\Exercicio6-4\Exercicio6-4\bin\Debug\netcoreapp3.1\Exercicio6-4.runtimeconfig.json
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\Exercicio6-4\Exercicio6-4\bin\Debug\netcoreapp3.1\Exercicio6-4.runtimeconfig.dev.json
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\Exercicio6-4\Exercicio6-4\bin\Debug\netcoreapp3.1\Exercicio6-4.dll
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\Exercicio6-4\Exercicio6-4\bin\Debug\netcoreapp3.1\Exercicio6-4.pdb
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\Exercicio6-4\Exercicio6-4\obj\Debug\netcoreapp3.1\Exercicio6-4.csprojAssemblyReference.cache
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\Exercicio6-4\Exercicio6-4\obj\Debug\netcoreapp3.1\Exercicio6-4.AssemblyInfoInputs.cache
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\Exercicio6-4\Exercicio6-4\obj\Debug\netcoreapp3.1\Exercicio6-4.AssemblyInfo.cs
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\Exercicio6-4\Exercicio6-4\obj\Debug\netcoreapp3.1\Exercicio6-4.dll
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\Exercicio6-4\Exercicio6-4\obj\Debug\netcoreapp3.1\Exercicio6-4.pdb

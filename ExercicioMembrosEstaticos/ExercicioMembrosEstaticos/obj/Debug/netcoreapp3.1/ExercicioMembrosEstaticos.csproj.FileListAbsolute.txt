@@ -1,0 +1,11 @@
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\bin\Debug\netcoreapp3.1\ExercicioMembrosEstaticos.exe
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\bin\Debug\netcoreapp3.1\ExercicioMembrosEstaticos.deps.json
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\bin\Debug\netcoreapp3.1\ExercicioMembrosEstaticos.runtimeconfig.json
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\bin\Debug\netcoreapp3.1\ExercicioMembrosEstaticos.runtimeconfig.dev.json
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\bin\Debug\netcoreapp3.1\ExercicioMembrosEstaticos.dll
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\bin\Debug\netcoreapp3.1\ExercicioMembrosEstaticos.pdb
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\netcoreapp3.1\ExercicioMembrosEstaticos.csprojAssemblyReference.cache
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\netcoreapp3.1\ExercicioMembrosEstaticos.AssemblyInfoInputs.cache
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\netcoreapp3.1\ExercicioMembrosEstaticos.AssemblyInfo.cs
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\netcoreapp3.1\ExercicioMembrosEstaticos.dll
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\netcoreapp3.1\ExercicioMembrosEstaticos.pdb

@@ -1,0 +1,11 @@
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ExercicioAula30\ExercicioAula30\bin\Debug\netcoreapp3.1\ExercicioAula30.exe
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ExercicioAula30\ExercicioAula30\bin\Debug\netcoreapp3.1\ExercicioAula30.deps.json
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ExercicioAula30\ExercicioAula30\bin\Debug\netcoreapp3.1\ExercicioAula30.runtimeconfig.json
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ExercicioAula30\ExercicioAula30\bin\Debug\netcoreapp3.1\ExercicioAula30.runtimeconfig.dev.json
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ExercicioAula30\ExercicioAula30\bin\Debug\netcoreapp3.1\ExercicioAula30.dll
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ExercicioAula30\ExercicioAula30\bin\Debug\netcoreapp3.1\ExercicioAula30.pdb
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ExercicioAula30\ExercicioAula30\obj\Debug\netcoreapp3.1\ExercicioAula30.csprojAssemblyReference.cache
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ExercicioAula30\ExercicioAula30\obj\Debug\netcoreapp3.1\ExercicioAula30.AssemblyInfoInputs.cache
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ExercicioAula30\ExercicioAula30\obj\Debug\netcoreapp3.1\ExercicioAula30.AssemblyInfo.cs
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ExercicioAula30\ExercicioAula30\obj\Debug\netcoreapp3.1\ExercicioAula30.dll
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ExercicioAula30\ExercicioAula30\obj\Debug\netcoreapp3.1\ExercicioAula30.pdb

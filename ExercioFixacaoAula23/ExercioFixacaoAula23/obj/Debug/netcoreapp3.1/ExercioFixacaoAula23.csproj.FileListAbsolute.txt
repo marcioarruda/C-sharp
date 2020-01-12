@@ -1,0 +1,10 @@
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ExercioFixacaoAula23\ExercioFixacaoAula23\bin\Debug\netcoreapp3.1\ExercioFixacaoAula23.exe
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ExercioFixacaoAula23\ExercioFixacaoAula23\bin\Debug\netcoreapp3.1\ExercioFixacaoAula23.deps.json
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ExercioFixacaoAula23\ExercioFixacaoAula23\bin\Debug\netcoreapp3.1\ExercioFixacaoAula23.runtimeconfig.json
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ExercioFixacaoAula23\ExercioFixacaoAula23\bin\Debug\netcoreapp3.1\ExercioFixacaoAula23.runtimeconfig.dev.json
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ExercioFixacaoAula23\ExercioFixacaoAula23\bin\Debug\netcoreapp3.1\ExercioFixacaoAula23.dll
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ExercioFixacaoAula23\ExercioFixacaoAula23\bin\Debug\netcoreapp3.1\ExercioFixacaoAula23.pdb
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ExercioFixacaoAula23\ExercioFixacaoAula23\obj\Debug\netcoreapp3.1\ExercioFixacaoAula23.AssemblyInfoInputs.cache
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ExercioFixacaoAula23\ExercioFixacaoAula23\obj\Debug\netcoreapp3.1\ExercioFixacaoAula23.AssemblyInfo.cs
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ExercioFixacaoAula23\ExercioFixacaoAula23\obj\Debug\netcoreapp3.1\ExercioFixacaoAula23.dll
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ExercioFixacaoAula23\ExercioFixacaoAula23\obj\Debug\netcoreapp3.1\ExercioFixacaoAula23.pdb

@@ -1,0 +1,11 @@
+E:\C#-COMPLETO\PROJETOS-WS-VS2019\TiposDeDados\TiposDeDados\bin\Debug\netcoreapp3.1\TiposDeDados.exe
+E:\C#-COMPLETO\PROJETOS-WS-VS2019\TiposDeDados\TiposDeDados\bin\Debug\netcoreapp3.1\TiposDeDados.deps.json
+E:\C#-COMPLETO\PROJETOS-WS-VS2019\TiposDeDados\TiposDeDados\bin\Debug\netcoreapp3.1\TiposDeDados.runtimeconfig.json
+E:\C#-COMPLETO\PROJETOS-WS-VS2019\TiposDeDados\TiposDeDados\bin\Debug\netcoreapp3.1\TiposDeDados.runtimeconfig.dev.json
+E:\C#-COMPLETO\PROJETOS-WS-VS2019\TiposDeDados\TiposDeDados\bin\Debug\netcoreapp3.1\TiposDeDados.dll
+E:\C#-COMPLETO\PROJETOS-WS-VS2019\TiposDeDados\TiposDeDados\bin\Debug\netcoreapp3.1\TiposDeDados.pdb
+E:\C#-COMPLETO\PROJETOS-WS-VS2019\TiposDeDados\TiposDeDados\obj\Debug\netcoreapp3.1\TiposDeDados.csprojAssemblyReference.cache
+E:\C#-COMPLETO\PROJETOS-WS-VS2019\TiposDeDados\TiposDeDados\obj\Debug\netcoreapp3.1\TiposDeDados.AssemblyInfoInputs.cache
+E:\C#-COMPLETO\PROJETOS-WS-VS2019\TiposDeDados\TiposDeDados\obj\Debug\netcoreapp3.1\TiposDeDados.AssemblyInfo.cs
+E:\C#-COMPLETO\PROJETOS-WS-VS2019\TiposDeDados\TiposDeDados\obj\Debug\netcoreapp3.1\TiposDeDados.dll
+E:\C#-COMPLETO\PROJETOS-WS-VS2019\TiposDeDados\TiposDeDados\obj\Debug\netcoreapp3.1\TiposDeDados.pdb

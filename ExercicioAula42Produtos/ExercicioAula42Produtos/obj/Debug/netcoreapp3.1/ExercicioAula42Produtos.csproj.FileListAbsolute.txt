@@ -1,0 +1,11 @@
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ExercicioAula42Produtos\ExercicioAula42Produtos\bin\Debug\netcoreapp3.1\ExercicioAula42Produtos.exe
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ExercicioAula42Produtos\ExercicioAula42Produtos\bin\Debug\netcoreapp3.1\ExercicioAula42Produtos.deps.json
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ExercicioAula42Produtos\ExercicioAula42Produtos\bin\Debug\netcoreapp3.1\ExercicioAula42Produtos.runtimeconfig.json
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ExercicioAula42Produtos\ExercicioAula42Produtos\bin\Debug\netcoreapp3.1\ExercicioAula42Produtos.runtimeconfig.dev.json
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ExercicioAula42Produtos\ExercicioAula42Produtos\bin\Debug\netcoreapp3.1\ExercicioAula42Produtos.dll
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ExercicioAula42Produtos\ExercicioAula42Produtos\bin\Debug\netcoreapp3.1\ExercicioAula42Produtos.pdb
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ExercicioAula42Produtos\ExercicioAula42Produtos\obj\Debug\netcoreapp3.1\ExercicioAula42Produtos.csprojAssemblyReference.cache
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ExercicioAula42Produtos\ExercicioAula42Produtos\obj\Debug\netcoreapp3.1\ExercicioAula42Produtos.AssemblyInfoInputs.cache
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ExercicioAula42Produtos\ExercicioAula42Produtos\obj\Debug\netcoreapp3.1\ExercicioAula42Produtos.AssemblyInfo.cs
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ExercicioAula42Produtos\ExercicioAula42Produtos\obj\Debug\netcoreapp3.1\ExercicioAula42Produtos.dll
+F:\CURSOS UDEMY\C#-COMPLETO\PROJETOS-WS-VS2019\ExercicioAula42Produtos\ExercicioAula42Produtos\obj\Debug\netcoreapp3.1\ExercicioAula42Produtos.pdb
